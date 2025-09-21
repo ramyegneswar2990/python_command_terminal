@@ -122,3 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with Python and Flask
 - Uses Google's Gemini AI for natural language processing
 - Inspired by traditional Unix shells and modern terminal emulators
+<<<<<<< HEAD
+=======
+<img width="1915" height="878" alt="image" src="https://github.com/user-attachments/assets/e7f001ee-7aa2-45f9-9610-cadb5b2d56bf" />
+>>>>>>> 88aee6a2bcda666a1afef28d865521d47e684234
